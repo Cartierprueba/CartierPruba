@@ -1,4 +1,3 @@
-from distutils.command.config import config
 from os import path, getenv
 
 class Config:
